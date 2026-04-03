@@ -59,6 +59,7 @@ The project is deployed using Render cloud platform.
 
 ## Project Structure
 
+```
 app.py
 model.pkl
 scaler.pkl
@@ -68,6 +69,8 @@ event_map.pkl
 region_map.pkl
 requirements.txt
 Procfile
+```
+
 
 ## Challenges and Solutions
 
